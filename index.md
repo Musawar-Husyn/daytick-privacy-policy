@@ -28,4 +28,4 @@ Since all data is stored locally on your device, you are responsible for managin
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact:
-**Email:** musawar.dev@gmail.com
+**Email:** musawarhussain002@gmail.com
